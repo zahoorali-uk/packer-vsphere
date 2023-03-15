@@ -24,7 +24,7 @@ autoinstall:
     layout: ${vm_guest_os_keyboard}
   storage:
     layout:
-    name: direct
+      name: direct
   identity:
     hostname: ubuntu-server
     username: ${build_username}
